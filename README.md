@@ -122,10 +122,3 @@ This project demonstrates a **computational approach** to predict protein functi
  Model comparison and optimization
  Interpretability using feature importance
 
-
-##  Author
-**Sapna Singh**
-MSc Bioinformatics Student
-Aspiring Data Analyst & Computational Biologist
-
----

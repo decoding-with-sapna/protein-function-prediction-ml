@@ -47,7 +47,7 @@ This project demonstrates a **computational approach** to predict protein functi
   * F1-score
 * Confusion matrix analysis
 
-## 📊 Results
+##  Results
 
 | Model               | Features        | Accuracy |
 | ------------------- | --------------- | -------- |
@@ -116,11 +116,11 @@ This project demonstrates a **computational approach** to predict protein functi
 * Deploy as a web-based prediction tool
 
 ## Project Highlights
-✔ End-to-end ML pipeline
-✔ Bioinformatics + Machine Learning integration
-✔ Feature engineering on biological sequences
-✔ Model comparison and optimization
-✔ Interpretability using feature importance
+ End-to-end ML pipeline
+ Bioinformatics + Machine Learning integration
+ Feature engineering on biological sequences
+ Model comparison and optimization
+ Interpretability using feature importance
 
 
 ##  Author

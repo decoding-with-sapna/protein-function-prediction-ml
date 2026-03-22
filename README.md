@@ -16,6 +16,7 @@ Experimental annotation of protein function is:
 * Time-consuming
 * Expensive
 * Not scalable
+  
 This project demonstrates a **computational approach** to predict protein function efficiently using sequence data.
 
 ##  Approach
@@ -27,10 +28,12 @@ This project demonstrates a **computational approach** to predict protein functi
 ###  2. Feature Engineering
 ####  Amino Acid Composition (AAC)
 * Converts sequence → frequency of 20 amino acids
-* Captures **global composition**
+* Captures **global composition**0
+  
 ####  k-mer Features (k = 2)
 * Extracted top 100 dipeptides
 * Captures **local sequence patterns**
+* 
 #### Combined Features
 * Integrated AAC + k-mer
 * Captures both **global + local information**
@@ -46,6 +49,7 @@ This project demonstrates a **computational approach** to predict protein functi
   * Precision
   * Recall
   * F1-score
+    
 * Confusion matrix analysis
 
 ##  Results

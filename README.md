@@ -8,6 +8,7 @@ Proteins are classified into four functional categories:
 * Enzyme
 * Regulation
 * Transport
+  
 The project explores how different sequence representations impact model performance, combining **bioinformatics feature engineering** with **machine learning**.
 
 ##  Problem Statement
